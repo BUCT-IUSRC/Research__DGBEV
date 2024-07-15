@@ -8,7 +8,7 @@ Sihan Chen , Keqiu Wang , Yadong Wang , Tianyu Shen , and Kunfeng Wang* (*Corres
 
 
 
-![image-20240715094229904](C:\Users\chensihan\AppData\Roaming\Typora\typora-user-images\image-20240715094229904.png)The overall architecture of our proposed DG-BEV.
+![pipeline.png](pipeline.png)The overall architecture of our proposed DG-BEV.
 
 ## Install
 
