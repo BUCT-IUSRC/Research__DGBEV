@@ -3,15 +3,16 @@
 Sihan Chen , Keqiu Wang , Yadong Wang , Tianyu Shen , and Kunfeng Wang* (*Corresponding authors)
 
 27th IEEE International Conference on Intelligent Transportation Systems (ITSC) (ITSC 2024)
- In the field of autonomous driving, Bird’s Eye View (BEV) technology has garnered significant attention due
-to its excellent utilization of multi-view multi-modal data. However, current BEV detection frameworks still encounter
-challenges arising from insufficient incorporation of image semantic information and the sparsity of LiDAR data. This paper introduces a depth-guided BEV (DG-BEV) 3D detection method comprising a depth-guided view Transformation module (DG-VTM) and a visual-based depth completion module, enabling mitigating the limitations of sparse LiDAR data and enhancing the overall perception. Additionally, a multi-scale semantic enhancement module (MSEM) is proposed to ensure holistic and nuanced integration of semantic details into the detection process. The DG-VTM and MSEM are seamlessly incorporated as a plug-and-play unit, making it adaptable for integration into various BEV detection models. In experiments conducted on the nuScenes validation dataset, DG-BEV reaches an NDS of 71.87%, exceeding several state-of-the-art methods.
+
 
 ## Framework Overview
 
 
 
 ![pipeline.png](pipeline.png)The overall architecture of our proposed DG-BEV.
+ In the field of autonomous driving, Bird’s Eye View (BEV) technology has garnered significant attention due
+to its excellent utilization of multi-view multi-modal data. However, current BEV detection frameworks still encounter
+challenges arising from insufficient incorporation of image semantic information and the sparsity of LiDAR data. This paper introduces a depth-guided BEV (DG-BEV) 3D detection method comprising a depth-guided view Transformation module (DG-VTM) and a visual-based depth completion module, enabling mitigating the limitations of sparse LiDAR data and enhancing the overall perception. Additionally, a multi-scale semantic enhancement module (MSEM) is proposed to ensure holistic and nuanced integration of semantic details into the detection process. The DG-VTM and MSEM are seamlessly incorporated as a plug-and-play unit, making it adaptable for integration into various BEV detection models. In experiments conducted on the nuScenes validation dataset, DG-BEV reaches an NDS of 71.87%, exceeding several state-of-the-art methods.
 
 ## Install
 
