@@ -55,9 +55,7 @@ mmdetection3d
 
 ```
 
-### models
 
-The final model can be downloaded [here](https://pan.baidu.com/s/1wmixf6mMt8tmkwWaUzSIqQ?pwd=zbwn )  . Depth maps can be generated from [here](https://pan.baidu.com/s/14a3hXMszn7Q0EQQBYSWc2w?pwd=vx6p)
 
 ### Training
 
