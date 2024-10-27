@@ -2,7 +2,7 @@
 
 Sihan Chen , Keqiu Wang , Yadong Wang , Tianyu Shen , and Kunfeng Wang* (*Corresponding authors)
 
-27th IEEE International Conference on Intelligent Transportation Systems (ITSC) (ITSC 2024)
+
 
 
 ## Framework Overview
